@@ -1,0 +1,80 @@
+.service{
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.service h2{
+  font-size: 3.5rem;
+  color: #FFFFFF;
+}
+.service h3{
+  margin-top: .5rem;
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+}
+.service p{
+  font-size: 1.8rem;
+}
+.service img{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.service-main{
+  background-color:#404041;
+  padding-top: 8rem;
+  padding-bottom: 2rem;
+}
+.service-main h2{
+  padding-top: 8rem;
+  color: #dddddd;
+  font-size: 4.6rem;
+}
+.service-main h3{
+  color: #8d8d90;
+  font-size: 3rem;
+}
+.service-web{
+  background-color:#442d80;
+}
+.service-web h2{
+}
+.service-web h3{
+  color: #d9d1ef ;
+}
+.service-web p{
+  color: #b5a5df;
+}
+.service-gam{
+  background-color:#1c7f88;
+}
+.service-gam h2{
+}
+.service-gam h3{
+  color: #c4eff3;
+}
+.service-gam p{
+  color: #93e2e9;
+}
+.service-ux{
+  background-color:#885b1c;
+}
+.service-ux h2{
+}
+.service-ux h3{
+  color: #f3dfc4;
+}
+.service-ux p{
+  color: #e9c593;
+}
+.service-consul{
+  background-color:#1c4988;
+}
+.service-consul h2{
+}
+.service-consul h3{
+  color: #c4d7f3;
+}
+.service-consul p{
+  color: #93b7e9;
+}
