@@ -1354,7 +1354,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 @media only screen and (max-width: 800px) {
     .s-clients {
-        padding-bottom: 17.4rem;
+        padding-bottom: 8rem;
     }
     .section-header.has-bottom-sep::before {
         width: 400px;
@@ -2760,7 +2760,7 @@ html.no-csstransitions .home-content__main {
  * # clients
  * ------------------------------------------------------------------- */
 .s-clients {
-    padding-top: 16.2rem;
+    padding-top: 8rem;
     background-color: #e6e6e6;
     color: #757575;
     position: relative;
@@ -2948,7 +2948,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 600px) {
     .s-clients {
-        padding-top: 12rem;
+        padding-top: 8rem;
     }
     .clients-testimonials::before {
         width: 250px;
